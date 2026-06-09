@@ -1,4 +1,4 @@
-# 
+# Elite cross-margin trading bot tools for Mac OS | Official cross-margin trading bot tools for PC Windows. Featuring slippage control and portfolio tracking — optimized for maximum performance on every platform.
 
 
 
